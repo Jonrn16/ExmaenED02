@@ -29,7 +29,7 @@ public class Coche {
         System.out.println("El coche está encendido.");
     }
     public void apagar() {
-        System.out.println("El coche está apagado.");
+        System.out.println("El coche se apaga de manera segura.");
     }
     @Override
     public String toString() {
